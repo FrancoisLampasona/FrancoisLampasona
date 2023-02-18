@@ -32,10 +32,6 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zphooenix&show_icons=true&locale=en" alt="zphooenix" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zphooenix&" alt="zphooenix" /></p>
 
 
 <h3 align="right">Connect with me:</h3>
