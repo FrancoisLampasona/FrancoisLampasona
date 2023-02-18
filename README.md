@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francois Lampasona</h1>
 <h3 align="">I am an Software Developer with a great passion for everything related to the world of information technology and IoT </h3>
 
-<img align="right" style="width:340px;height:280px;border-radius: 10px 10px 10px 10px;" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/01.gif" alt="zphooenix" />
+<img align="right" style="width:340px;height:260px;border-radius: 10px 10px 10px 10px;" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/01.gif" alt="zphooenix" />
 
 <p>
 
