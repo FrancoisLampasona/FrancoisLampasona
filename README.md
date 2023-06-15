@@ -5,7 +5,7 @@
 
 <p>
 
-- 🔭 I’m currently study on [Politecnico di Torino](https://www.polito.it/)
+- 🔭 I’m currently study on [World Wide Web](https://www.google.com/)
 
 - 🌱 I’m currently learning **Python,Assembler,JavaScript**
 
